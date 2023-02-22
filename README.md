@@ -4,29 +4,4 @@ www.patika.dev
 
 
 
-
-
-				            [16 21 11 8 12 22] Merge sort
-
-1-   				    [16 21 11]              [8 12 22] 
-
-
-2-    		[16 21]      [ 11]  			[8 12]      [ 22] 
-
-
-
-3-    		[16] [21] [ 11]  			      [8] [12] [ 22] 
-
-
-
-4-    		[16 21]      [ 11]  			[8 12]      [ 22] 
-
-
-
-5-    		[11 16 21 ]  				[8 12 22] 
-
-
-
-6-    				[8 11 12 16 21 22] 
-
-Big O Notation:(nlogn)
+![Mergesort1](https://user-images.githubusercontent.com/110769765/220645856-baa7305a-19a1-4007-9d3d-ee3e4b8fe3fd.png)
