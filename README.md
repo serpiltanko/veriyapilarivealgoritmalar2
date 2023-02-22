@@ -1,5 +1,6 @@
 # veriyapilarivealgoritmalar2
 Veri Yapıları ve Algoritmalar ödev-2
+www.patika.dev
 
 
 
